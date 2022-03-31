@@ -1,0 +1,25 @@
+form{
+    background-color: #f1d2f0;
+    width: 33%;
+    height: 50%;
+    position: absolute;
+    left: 34%;
+    top: 24%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 100px;
+}
+.Wstatus{
+    width: 20%;
+    position: absolute;
+    left: 41%;
+    top: 5%;
+    text-align: center;
+    /* background-color: #f1d2f0; */
+}
+#city{
+    width: 80%;
+    position: absolute;
+    left: 10%;
+
+}
